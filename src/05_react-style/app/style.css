@@ -1,0 +1,13 @@
+.foo {
+    color: brown;
+}
+
+.active {
+    font-size: large;
+    color: yellow;
+}
+
+.title {
+    font-weight: 600;
+    background-color: green;
+}
